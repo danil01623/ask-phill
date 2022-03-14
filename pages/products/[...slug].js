@@ -19,10 +19,6 @@ const ProductFilterPage = () => {
     fetcher
   );
 
-  // useEffect(() => {
-  //   setPageIndex(page);
-  // }, [page]);
-
   useEffect(() => {
     if (data && data.length) {
       const transformData = data.map((dat) => {

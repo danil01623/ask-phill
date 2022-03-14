@@ -11,6 +11,7 @@ const Layout = (props) => {
     colorsOptions,
     pricesOptions
   ) => {
+    // checking if filter option are selected and join by option
     const categoriesPath = categoriesOptions.length
       ? categoriesOptions.join()
       : "all_categories";
@@ -19,6 +20,7 @@ const Layout = (props) => {
       : "all_colors";
     const pricesPath = pricesOptions ? pricesOptions : "all_prices";
 
+    //add path to router
     const fullPath = `products/${categoriesPath}/${colorsPath}/${pricesPath}/?page=1&limit=20`;
     router.push(fullPath);
   };

@@ -29,18 +29,10 @@ const Colors = [
 
 const Filter = (props) => {
   const router = useRouter();
-  const { slug } = router.query;
   const [selectedCategories, setSelectedCategories] = useState([]);
   const [selectedPrices, setSelectedPrice] = useState(250);
   const [selectedColors, setSelectedColors] = useState([]);
   const minValue = 50;
-
-  // useEffect(() => {
-  //   if (slug?.length) {
-  //     setSelectedCategories(slug[0].split(","));
-  //     setSelectedColors(slug[1].split(","));
-  //   }
-  // }, [slug]);
 
   const showCategories = () => {
     return (
