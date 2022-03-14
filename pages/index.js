@@ -27,7 +27,7 @@ const Home = (props) => {
         />
       </div>
       <div className={classes.productList}>
-        <ProductList items={props.products} />
+        <ProductList items={products} />
       </div>
     </div>
   );

@@ -861,7 +861,7 @@ export const products = [
           name: "Blue",
         },
       ],
-      categoryTags: ["E8 Sandals ", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals ", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -889,7 +889,7 @@ export const products = [
           name: "Purple",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Sandals", "E8 New Arrivals"],
+      categoryTags: ["Mid-Heels", "Sandals", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -917,7 +917,7 @@ export const products = [
           name: "Yellow",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -945,7 +945,7 @@ export const products = [
           name: "Brown",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -973,7 +973,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -5287,7 +5287,7 @@ export const products = [
           name: "Green",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -5315,7 +5315,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Sandals", "New Arrivals"],
+      categoryTags: ["Mid-Heels", "Sandals", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -5343,7 +5343,7 @@ export const products = [
           name: "Green",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "#New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "#New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -5511,7 +5511,7 @@ export const products = [
           name: "Yellow",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Flats", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Flats", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -5539,7 +5539,7 @@ export const products = [
           name: "Natural",
         },
       ],
-      categoryTags: ["E8 Brogues", "E8 New Arrivals", "E8 Flats"],
+      categoryTags: ["Brogues", "New Arrivals", "Flats"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -5563,7 +5563,7 @@ export const products = [
         },
       },
       colorFamily: null,
-      categoryTags: ["E8 Flats", "E8 Ankle Boots", "E8 New Arrivals"],
+      categoryTags: ["Flats", "Ankle Boots", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -5647,7 +5647,7 @@ export const products = [
           name: "White",
         },
       ],
-      categoryTags: ["E8 Boots", "E8 High-Heels", "E8 New Arrivals"],
+      categoryTags: ["Boots", "High-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -5671,7 +5671,7 @@ export const products = [
         },
       },
       colorFamily: null,
-      categoryTags: ["E8 Sandals", "E8 Mules", "E8 Mid-Heels"],
+      categoryTags: ["Sandals", "Mules", "Mid-Heels"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -5699,7 +5699,7 @@ export const products = [
           name: "Brown",
         },
       ],
-      categoryTags: ["E8 Court Shoes", "E8 New Arrivals", "E8 Flats"],
+      categoryTags: ["Court Shoes", "New Arrivals", "Flats"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -5727,7 +5727,7 @@ export const products = [
           name: "Natural",
         },
       ],
-      categoryTags: ["E8 Court Shoes", "E8 New Arrivals", "E8 Flats"],
+      categoryTags: ["Court Shoes", "New Arrivals", "Flats"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -5786,7 +5786,7 @@ export const products = [
           name: "Green",
         },
       ],
-      categoryTags: ["E8 Mules", "E8 Flats", "E8 New Arrivals"],
+      categoryTags: ["Mules", "Flats", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -5814,7 +5814,7 @@ export const products = [
           name: "Natural",
         },
       ],
-      categoryTags: ["E8 Flats", "E8 Mules", "E8 New Arrivals"],
+      categoryTags: ["Flats", "Mules", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -5842,7 +5842,7 @@ export const products = [
           name: "White",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Ankle Boots"],
+      categoryTags: ["Mid-Heels", "Ankle Boots"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -5898,7 +5898,7 @@ export const products = [
           name: "White",
         },
       ],
-      categoryTags: ["E8 New Arrivals", "E8 Flats", "E8 Ankle Boots"],
+      categoryTags: ["New Arrivals", "Flats", "Ankle Boots"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -6234,7 +6234,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -6626,7 +6626,7 @@ export const products = [
           name: "Brown",
         },
       ],
-      categoryTags: ["E8 Outlet"],
+      categoryTags: ["Outlet"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -6682,7 +6682,7 @@ export const products = [
           name: "Pink",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Sandals"],
+      categoryTags: ["Mid-Heels", "Sandals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -6710,7 +6710,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Sandals", "New Arrivals"],
+      categoryTags: ["Mid-Heels", "Sandals", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -6738,7 +6738,7 @@ export const products = [
           name: "Blue",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Sandals", "New Arrivals"],
+      categoryTags: ["Mid-Heels", "Sandals", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -6766,7 +6766,7 @@ export const products = [
           name: "Natural",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Sandals", "E8 New Arrivals"],
+      categoryTags: ["Mid-Heels", "Sandals", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -6822,7 +6822,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Tall Boots", "E8 Boots", "E8 Mid-Heels"],
+      categoryTags: ["Tall Boots", "Boots", "Mid-Heels"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -6850,7 +6850,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Tall Boots", "E8 Boots", "E8 Mid-Heels"],
+      categoryTags: ["Tall Boots", "Boots", "Mid-Heels"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7074,7 +7074,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Court Shoes", "E8 New Arrivals"],
+      categoryTags: ["Mid-Heels", "Court Shoes", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7102,7 +7102,7 @@ export const products = [
           name: "Brown",
         },
       ],
-      categoryTags: ["E8 Brogues", "E8 Flats"],
+      categoryTags: ["Brogues", "Flats"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7130,7 +7130,7 @@ export const products = [
           name: "White",
         },
       ],
-      categoryTags: ["E8 Brogues", "E8 Flats"],
+      categoryTags: ["Brogues", "Flats"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7158,7 +7158,7 @@ export const products = [
           name: "Pink",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Court Shoes", "E8 New Arrivals"],
+      categoryTags: ["Mid-Heels", "Court Shoes", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7186,7 +7186,7 @@ export const products = [
           name: "Blue",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Court Shoes", "E8 New Arrivals"],
+      categoryTags: ["Mid-Heels", "Court Shoes", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7214,7 +7214,7 @@ export const products = [
           name: "Green",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Flats", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Flats", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7242,7 +7242,7 @@ export const products = [
           name: "Brown",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7270,7 +7270,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 New Arrivals", "E8 Flats"],
+      categoryTags: ["Sandals", "New Arrivals", "Flats"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7298,7 +7298,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Sandals ", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals ", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7326,7 +7326,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Court Shoes", "E8 New Arrivals"],
+      categoryTags: ["Mid-Heels", "Court Shoes", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7354,7 +7354,7 @@ export const products = [
           name: "Natural",
         },
       ],
-      categoryTags: ["E8 Flats", "E8 Sandals", "E8 New Arrivals"],
+      categoryTags: ["Flats", "Sandals", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7382,7 +7382,7 @@ export const products = [
           name: "Brown",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Flats", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Flats", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7410,7 +7410,7 @@ export const products = [
           name: "Red",
         },
       ],
-      categoryTags: ["E8 Flats", "E8 Sandals", "E8 New Arrivals"],
+      categoryTags: ["Flats", "Sandals", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7438,7 +7438,7 @@ export const products = [
           name: "Natural",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Court Shoes", "E8 New Arrivals"],
+      categoryTags: ["Mid-Heels", "Court Shoes", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7466,7 +7466,7 @@ export const products = [
           name: "Natural",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 High-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "High-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7494,7 +7494,7 @@ export const products = [
           name: "Blue",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Flats", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Flats", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7522,7 +7522,7 @@ export const products = [
           name: "Orange",
         },
       ],
-      categoryTags: ["E8 Sandals ", "E8 Flats", "E8 New Arrivals"],
+      categoryTags: ["Sandals ", "Flats", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7550,7 +7550,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 New Arrivals", "E8 Ankle Boots", "E8 Mid-Heels"],
+      categoryTags: ["New Arrivals", "Ankle Boots", "Mid-Heels"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7578,7 +7578,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Boots", "E8 High-Heels"],
+      categoryTags: ["Boots", "High-Heels"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7609,7 +7609,7 @@ export const products = [
           name: "Gold",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7637,7 +7637,7 @@ export const products = [
           name: "Red",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7665,7 +7665,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Mules", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Mules", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7693,7 +7693,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 High-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "High-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7721,7 +7721,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 New Arrivals", "E8 Heels"],
+      categoryTags: ["Sandals", "New Arrivals", "Heels"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7752,7 +7752,7 @@ export const products = [
           name: "Green",
         },
       ],
-      categoryTags: ["E8 Sandals ", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals ", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7780,7 +7780,7 @@ export const products = [
           name: "Green",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Flats", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Flats", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7808,7 +7808,7 @@ export const products = [
           name: "Orange",
         },
       ],
-      categoryTags: ["E8 Sandals ", "E8 Flats", "E8 New Arrivals"],
+      categoryTags: ["Sandals ", "Flats", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7836,7 +7836,7 @@ export const products = [
           name: "Yellow",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7864,7 +7864,7 @@ export const products = [
           name: "Natural",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 High-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "High-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7892,7 +7892,7 @@ export const products = [
           name: "Orange",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels"],
+      categoryTags: ["Sandals", "Mid-Heels"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7920,7 +7920,7 @@ export const products = [
           name: "Pink",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels"],
+      categoryTags: ["Sandals", "Mid-Heels"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7957,7 +7957,7 @@ export const products = [
           name: "Blue",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -7994,7 +7994,7 @@ export const products = [
           name: "Blue",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8022,7 +8022,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Sandals", "E8 New Arrivals"],
+      categoryTags: ["Mid-Heels", "Sandals", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8050,7 +8050,7 @@ export const products = [
           name: "Brown",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Sandals", "E8 New Arrivals"],
+      categoryTags: ["Mid-Heels", "Sandals", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8078,7 +8078,7 @@ export const products = [
           name: "Brown",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8106,7 +8106,7 @@ export const products = [
           name: "White",
         },
       ],
-      categoryTags: ["E8 Flats", "E8 Mules", "E8 New Arrivals"],
+      categoryTags: ["Flats", "Mules", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8134,7 +8134,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Boots", "E8 High-Heels"],
+      categoryTags: ["Boots", "High-Heels"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8162,7 +8162,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Boots", "E8 Ankle Boots", "E8 Flats"],
+      categoryTags: ["Boots", "Ankle Boots", "Flats"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8190,7 +8190,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Boots", "E8 Flats"],
+      categoryTags: ["Boots", "Flats"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8274,7 +8274,7 @@ export const products = [
           name: "Natural",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8302,7 +8302,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Sandals", "E8 New Arrivals"],
+      categoryTags: ["Mid-Heels", "Sandals", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8358,7 +8358,7 @@ export const products = [
           name: "Blue",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels"],
+      categoryTags: ["Sandals", "Mid-Heels"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8750,7 +8750,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Flats", "E8 Ankle Boots"],
+      categoryTags: ["Flats", "Ankle Boots"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8778,7 +8778,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Outlet"],
+      categoryTags: ["Outlet"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8806,7 +8806,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Flats", "E8 Mules"],
+      categoryTags: ["Flats", "Mules"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8834,7 +8834,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Ankle Boots", "E8 Mid-Heels"],
+      categoryTags: ["Ankle Boots", "Mid-Heels"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8918,7 +8918,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Flats", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Flats", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8946,7 +8946,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Brogues", "E8 Flats"],
+      categoryTags: ["Brogues", "Flats"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -8974,7 +8974,7 @@ export const products = [
           name: "Brown",
         },
       ],
-      categoryTags: ["E8 Mid-Heels ", "E8 Ankle Boots", "E8 New Arrivals"],
+      categoryTags: ["Mid-Heels ", "Ankle Boots", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9002,7 +9002,7 @@ export const products = [
           name: "Orange",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Sandals", "E8 New Arrivals"],
+      categoryTags: ["Mid-Heels", "Sandals", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9030,7 +9030,7 @@ export const products = [
           name: "White",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Flats", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Flats", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9086,7 +9086,7 @@ export const products = [
           name: "Orange",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 New Arrivals", "E8 Flats"],
+      categoryTags: ["Sandals", "New Arrivals", "Flats"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9114,7 +9114,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9142,7 +9142,7 @@ export const products = [
           name: "Brown",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Sandals", "E8 New Arrivals"],
+      categoryTags: ["Mid-Heels", "Sandals", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9170,7 +9170,7 @@ export const products = [
           name: "Yellow",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Sandals", "E8 New Arrivals"],
+      categoryTags: ["Mid-Heels", "Sandals", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9226,7 +9226,7 @@ export const products = [
           name: "Yellow",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9254,7 +9254,7 @@ export const products = [
           name: "Natural",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Flats", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Flats", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9278,7 +9278,7 @@ export const products = [
         },
       },
       colorFamily: null,
-      categoryTags: ["E8 Flats", "E8 Sandals", "E8 New Arrivals"],
+      categoryTags: ["Flats", "Sandals", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9306,7 +9306,7 @@ export const products = [
           name: "Brown",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9726,7 +9726,7 @@ export const products = [
           name: "Blue",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 Mules"],
+      categoryTags: ["Sandals", "Mid-Heels", "Mules"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9754,7 +9754,7 @@ export const products = [
           name: "Green",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 High-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "High-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9782,7 +9782,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Boots", "E8 Mid-Heels"],
+      categoryTags: ["Boots", "Mid-Heels"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9810,7 +9810,7 @@ export const products = [
           name: "Brown",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Ankle Boots"],
+      categoryTags: ["Mid-Heels", "Ankle Boots"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9838,7 +9838,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Outlet"],
+      categoryTags: ["Outlet"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9866,7 +9866,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Ankle Boots", "E8 Mid-Heels"],
+      categoryTags: ["Ankle Boots", "Mid-Heels"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9894,7 +9894,7 @@ export const products = [
           name: "Brown",
         },
       ],
-      categoryTags: ["E8 Boots", "E8 High-Heels"],
+      categoryTags: ["Boots", "High-Heels"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9922,7 +9922,7 @@ export const products = [
           name: "Brown",
         },
       ],
-      categoryTags: ["E8 Boots", "E8 High-Heels"],
+      categoryTags: ["Boots", "High-Heels"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -9978,7 +9978,7 @@ export const products = [
           name: "Natural",
         },
       ],
-      categoryTags: ["E8 Mid-Heels", "E8 Court Shoes", "E8 New Arrivals"],
+      categoryTags: ["Mid-Heels", "Court Shoes", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -10006,7 +10006,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -10034,7 +10034,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Mules", "E8 Flats", "E8 New Arrivals"],
+      categoryTags: ["Mules", "Flats", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -10062,7 +10062,7 @@ export const products = [
           name: "Yellow",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Flats", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Flats", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -10090,7 +10090,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Flats", "E8 Sandals", "E8 New Arrivals"],
+      categoryTags: ["Flats", "Sandals", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -10118,7 +10118,7 @@ export const products = [
           name: "Black",
         },
       ],
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -10166,7 +10166,7 @@ export const products = [
         },
       },
       colorFamily: null,
-      categoryTags: ["E8 Mid-Heels", "E8 Ankle Boots"],
+      categoryTags: ["Mid-Heels", "Ankle Boots"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -10334,7 +10334,7 @@ export const products = [
         },
       },
       colorFamily: null,
-      categoryTags: ["E8 Outlet"],
+      categoryTags: ["Outlet"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -10358,7 +10358,7 @@ export const products = [
         },
       },
       colorFamily: null,
-      categoryTags: ["E8 Mid-Heels", "E8 Ankle Boots"],
+      categoryTags: ["Mid-Heels", "Ankle Boots"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -10382,7 +10382,7 @@ export const products = [
         },
       },
       colorFamily: null,
-      categoryTags: ["E8 Mid-Heels", "E8 Ankle Boots"],
+      categoryTags: ["Mid-Heels", "Ankle Boots"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -10406,7 +10406,7 @@ export const products = [
         },
       },
       colorFamily: null,
-      categoryTags: ["E8 Mid-Heels", "E8 Ankle Boots"],
+      categoryTags: ["Mid-Heels", "Ankle Boots"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -10430,7 +10430,7 @@ export const products = [
         },
       },
       colorFamily: null,
-      categoryTags: ["E8 Mid-Heels", "E8 Ankle Boots"],
+      categoryTags: ["Mid-Heels", "Ankle Boots"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -10550,7 +10550,7 @@ export const products = [
         },
       },
       colorFamily: null,
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -10574,7 +10574,7 @@ export const products = [
         },
       },
       colorFamily: null,
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -10598,7 +10598,7 @@ export const products = [
         },
       },
       colorFamily: null,
-      categoryTags: ["E8 Sandals", "E8 Mid-Heels", "E8 New Arrivals"],
+      categoryTags: ["Sandals", "Mid-Heels", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [
@@ -10622,7 +10622,7 @@ export const products = [
         },
       },
       colorFamily: null,
-      categoryTags: ["E8 Mid-Heels", "E8 Sandals", "E8 New Arrivals"],
+      categoryTags: ["Mid-Heels", "Sandals", "New Arrivals"],
       shopifyProductEu: {
         variants: {
           edges: [

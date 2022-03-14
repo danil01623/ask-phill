@@ -3,6 +3,7 @@ import { products } from "../../../data/miista";
 export default function handler(req, res) {
   const { limit, page } = req.query;
 
+  let filteredProducts = [];
   if (checkQuery(req.query)) {
     const transformCategories =
       req.query?.categories?.length &&
@@ -18,14 +19,20 @@ export default function handler(req, res) {
         ? req.query.prices.split(",")
         : [];
 
-    const filteredProducts = filterProducts(
+    filteredProducts = filterProducts(
       transformCategories,
       transformColors,
       transformPrices
     );
   }
-  // res.status(200).json(products.slice(0, limit));
-  res.status(200).json(products.slice((page - 1) * limit, page * limit));
+
+  if (filteredProducts?.length) {
+    res
+      .status(200)
+      .json(filteredProducts.slice((page - 1) * limit, page * limit));
+  } else {
+    res.status(200).json(products.slice((page - 1) * limit, page * limit));
+  }
 }
 
 const checkQuery = (query) => {
@@ -45,31 +52,37 @@ const filterProducts = (categories, colors, prices) => {
   let filterPrices = [];
   if (categories?.length) {
     filteredCategories = filterByCategory(categories);
+    return filteredCategories;
   }
   if (colors?.length) {
     filterColors = filterByColors(colors);
+    return filterColors;
   }
   if (prices?.length) {
-    filterPrices = filterByColors(prices);
+    filterPrices = filterByPrice(prices);
+    return filterPrices;
   }
 };
 
 const filterByCategory = (categories) => {
-  const productsCategory = products.filter((product) => {
-    return product?.node?.categoryTags?.filter((category) =>
-      categories.includes(category)
+  const filter = products.filter((product) => {
+    return (
+      product?.node?.categoryTags?.filter((category) => {
+        return categories.includes(category);
+      }).length > 0
     );
   });
-  return productsCategory;
+  return filter;
 };
 
 const filterByColors = (colors) => {
-  const productsByColor = products.filter((product) => {
-    return product?.node?.colorFamily?.filter((color) =>
-      colors.includes(color.name)
+  const filter = products.filter((product) => {
+    return (
+      product?.node?.colorFamily?.filter((color) => colors.includes(color.name))
+        .length > 0
     );
   });
-  return productsByColor;
+  return filter;
 };
 
 const filterByPrice = (prices) => {

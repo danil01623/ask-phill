@@ -14,7 +14,7 @@ const ProductFilterPage = () => {
   const { data, error } = useSWR(
     () =>
       slug?.length
-        ? `/api/products/?page=1&limit=20&categories=${slug[1]}&colors=${slug[2]}&prices=${slug[3]}`
+        ? `/api/products/?page=1&limit=20&categories=${slug[0]}&colors=${slug[1]}&prices=${slug[2]}`
         : null,
     fetcher
   );
@@ -28,8 +28,8 @@ const ProductFilterPage = () => {
       const transformData = data.map((dat) => {
         return dat.node;
       });
+      setProducts(transformData);
     }
-    setProducts(transformData);
   }, [data]);
 
   const updatePage = (type) => {

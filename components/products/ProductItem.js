@@ -11,7 +11,6 @@ const ProductItem = (props) => {
     },
     shopifyProductEu: { variants },
   } = props.product;
-
   const showColors = () => {
     return colorFamily?.map((color) => color.name).join(", ");
   };
@@ -22,7 +21,7 @@ const ProductItem = (props) => {
 
   return (
     <li className={classes.item}>
-      <img src={url} alt={name} />
+      <Image src={"https:" + url} alt={name} width={250} height={160} />
       <div className={classes.content}>
         <div className={classes.name}>
           <h2>{name}</h2>

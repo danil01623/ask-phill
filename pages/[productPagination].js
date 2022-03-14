@@ -26,8 +26,8 @@ const ProductsPagination = () => {
       const transformData = data.map((dat) => {
         return dat.node;
       });
+      setProducts(transformData);
     }
-    setProducts(transformData);
   }, [data]);
 
   const updatePage = (type) => {

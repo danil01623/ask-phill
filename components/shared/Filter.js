@@ -35,12 +35,12 @@ const Filter = (props) => {
   const [selectedColors, setSelectedColors] = useState([]);
   const minValue = 50;
 
-  useEffect(() => {
-    if (slug?.length) {
-      setSelectedCategories(slug[0].split(","));
-      setSelectedColors(slug[1].split(","));
-    }
-  }, [slug]);
+  // useEffect(() => {
+  //   if (slug?.length) {
+  //     setSelectedCategories(slug[0].split(","));
+  //     setSelectedColors(slug[1].split(","));
+  //   }
+  // }, [slug]);
 
   const showCategories = () => {
     return (

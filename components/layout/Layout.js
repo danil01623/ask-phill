@@ -17,7 +17,8 @@ const Layout = (props) => {
     const colorsPath = colorsOptions.length
       ? colorsOptions.join()
       : "all_colors";
-    const pricesPath = pricesOptions.length ? pricesOptions : "all_prices";
+    const pricesPath = pricesOptions ? pricesOptions : "all_prices";
+
     const fullPath = `products/${categoriesPath}/${colorsPath}/${pricesPath}/?page=1&limit=20`;
     router.push(fullPath);
   };

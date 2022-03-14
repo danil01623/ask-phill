@@ -56,3 +56,17 @@
     margin: 1rem 0;
   }
 }
+
+@media (max-width: 767px) {
+  .item {
+    width: 80%;
+    margin: 40px auto;
+  }
+  .item img {
+    object-fit: contain;
+    width: 100%;
+  }
+  .item > span {
+    height: 250px !important;
+  }
+}
