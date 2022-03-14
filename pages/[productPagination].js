@@ -30,6 +30,15 @@ const ProductsPagination = () => {
     }
   }, [data]);
 
+  if (error) {
+    <p className={classes.center}>
+      Not found, click to the next button in the pagination
+    </p>;
+  }
+  if (!products?.length) {
+    <p className={classes.center}>is Loading ...</p>;
+  }
+
   const updatePage = (type) => {
     const path =
       type === "next"

@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 import useSWR from "swr";
 import { useRouter } from "next/router";
-import Pagination from "../../components/shared/Pagination";
 import ProductList from "../../components/products/ProductList";
 import classes from "../../styles/Home.module.css";
 
@@ -18,6 +17,13 @@ const ProductFilterPage = () => {
         : null,
     fetcher
   );
+
+  if (error) {
+    <p className={classes.center}>Not found</p>;
+  }
+  if (!products?.length) {
+    <p className={classes.center}>is Loading ...</p>;
+  }
 
   useEffect(() => {
     if (data && data.length) {

@@ -4,9 +4,8 @@ export default function handler(req, res) {
   const { limit, page } = req.query;
 
   let filteredProducts = [];
-
   if (checkQuery(req.query)) {
-    // prepare queries for filtering
+    // transform data  to be ready to filter
     const transformCategories =
       req.query?.categories?.length &&
       req.query?.categories !== "all_categories"
@@ -21,7 +20,7 @@ export default function handler(req, res) {
         ? req.query.prices.split(",")
         : [];
 
-    //filter by item
+    //filter by option
     filteredProducts = filterProducts(
       transformCategories,
       transformColors,
